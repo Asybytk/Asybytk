@@ -1,5 +1,26 @@
 # 💫 About Me:
+<h3 align="center">
+Hi there, I'm Asiye 👋
+</h3>
+
 I' m from Germany<br>I'm learning HTML
+
+
+### 🔭 I’m currently working on
+
+- My Java & Lambda skills
+- My HTML-CSS skills
+
+
+### 🌱 I'm currently learning
+
+- Selenium
+- Jira
+- AWS
+- Jenkins
+- Appium
+
+
 
 
 ## 🌐 Socials:
