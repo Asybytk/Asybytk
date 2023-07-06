@@ -32,7 +32,7 @@ I' m from Germany<br>I'm learning HTML
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 512px; height: 340px; margin: 0px; width: 351px;" alt="Selenium&quot; Icon - Download for free – Iconduck" jsname="kn3ccd" data-ilt="1688656347572">
+<img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 40px; height:40px; margin: 0px; width: 70px;" alt="Selenium&quot; Icon - Download for free – Iconduck" jsname="kn3ccd" data-ilt="1688656347572">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Asybytk&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
