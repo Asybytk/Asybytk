@@ -48,8 +48,8 @@ I'm learning HTML
 ![Page Object Model (POM)](https://img.shields.io/badge/Page%20Object%20Model%20(POM)-%23006699.svg?style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-%2300cc00.svg?style=for-the-badge)
 ![STLC](https://img.shields.io/badge/STLC-%23ff66ff.svg?style=for-the-badge)
-[![LambdaTest - Turuncu](https://img.shields.io/badge/LambdaTest-Turuncu-%23ff6600.svg?style=for-the-badge)](https://www.lambdatest.com/)
-[![Selenium Grid - Yeşil](https://img.shields.io/badge/Selenium%20Grid-Yeşil-%23000.svg?style=for-the-badge)](https://selenium.dev/documentation/en/grid/)
+[![Lambda](https://img.shields.io/badge/Lambda-%23ff6600.svg?style=for-the-badge)](https://www.lambdatest.com/)
+[![SeleniumGrid](https://img.shields.io/badge/Selenium%20Grid-%23000.svg?style=for-the-badge)](https://selenium.dev/documentation/en/grid/)
 [![Log4j](https://img.shields.io/badge/Log4j-%230066cc.svg?style=for-the-badge)](https://logging.apache.org/log4j/2.x/)
 <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 40px; height:40px; margin: 0px; width: 70px;" alt="Selenium&quot; Icon - Download for free – Iconduck" jsname="kn3ccd" data-ilt="1688656347572">
 
