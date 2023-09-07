@@ -3,20 +3,25 @@
 Hi there, I'm Asiye 👋
 </h3>
 
-I' m from Germany<br>I'm learning HTML
+I' m from Germany<br>
+I'm learning HTML
+
 
 
 ### 🔭 I’m currently working on
 
 - My Java & Lambda skills
 - My HTML-CSS skills
+- My Jira skills
+- My Selenium (jUnit, TestNg, Cucumber, Fluent, Reports) skills
+- My Selenium Grid skills
 
 
 ### 🌱 I'm currently learning
 
 - Selenium
 - Jira
-- AWS
+- AWS Cloud
 - Jenkins
 - Appium
 
@@ -42,6 +47,8 @@ I' m from Germany<br>I'm learning HTML
 ![Page Object Model (POM)](https://img.shields.io/badge/Page%20Object%20Model%20(POM)-%23006699.svg?style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-%2300cc00.svg?style=for-the-badge)
 ![STLC](https://img.shields.io/badge/STLC-%23ff66ff.svg?style=for-the-badge)
+[![Allure Test](https://img.shields.io/badge/Allure%20Test-%23ff66ff.svg?style=for-the-badge)](https://www.allure.com/)
+[![Log4j](https://img.shields.io/badge/Log4j-%230066cc.svg?style=for-the-badge)](https://logging.apache.org/log4j/2.x/)
 <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 40px; height:40px; margin: 0px; width: 70px;" alt="Selenium&quot; Icon - Download for free – Iconduck" jsname="kn3ccd" data-ilt="1688656347572">
 
 # 📊 GitHub Stats:
