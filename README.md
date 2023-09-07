@@ -32,7 +32,6 @@ I' m from Germany<br>I'm learning HTML
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230000FF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-%23808080?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white&labelColor=%23000000)](https://www.jetbrains.com/idea/)
-[![Jira](https://img.shields.io/badge/-Jira-%23808080?style=for-the-badge&logo=Jira&logoColor=white&labelColor=%230052CC)](https://www.atlassian.com/software/jira)
 [![GitHub](https://img.shields.io/badge/-GitHub-%23808080?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=%23181717)](https://github.com/)
 ![Maven](https://img.shields.io/badge/Maven-%23FF0000.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 [![Selenium](https://img.shields.io/badge/-Selenium-%23808080?style=for-the-badge&logo=Selenium&logoColor=white&labelColor=%2343B02A)](https://selenium.dev/)
@@ -43,7 +42,6 @@ I' m from Germany<br>I'm learning HTML
 ![Page Object Model (POM)](https://img.shields.io/badge/Page%20Object%20Model%20(POM)-%23006699.svg?style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-%2300cc00.svg?style=for-the-badge)
 ![STLC](https://img.shields.io/badge/STLC-%23ff66ff.svg?style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-%230066cc.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 40px; height:40px; margin: 0px; width: 70px;" alt="Selenium&quot; Icon - Download for free – Iconduck" jsname="kn3ccd" data-ilt="1688656347572">
 
 # 📊 GitHub Stats:
