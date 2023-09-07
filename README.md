@@ -43,11 +43,11 @@ I'm learning HTML
 ![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%23008000.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%23FF6600.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF9900.svg?style=for-the-badge&logo=testng&logoColor=white)
+[![Allure Test](https://img.shields.io/badge/Allure%20Test-%23ff66ff.svg?style=for-the-badge)](https://www.allure.com/)
 ![Cucumber](https://img.shields.io/badge/Cucumber-%23004d00.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Page Object Model (POM)](https://img.shields.io/badge/Page%20Object%20Model%20(POM)-%23006699.svg?style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-%2300cc00.svg?style=for-the-badge)
 ![STLC](https://img.shields.io/badge/STLC-%23ff66ff.svg?style=for-the-badge)
-[![Allure Test](https://img.shields.io/badge/Allure%20Test-%23ff66ff.svg?style=for-the-badge)](https://www.allure.com/)
 [![Log4j](https://img.shields.io/badge/Log4j-%230066cc.svg?style=for-the-badge)](https://logging.apache.org/log4j/2.x/)
 <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 40px; height:40px; margin: 0px; width: 70px;" alt="Selenium&quot; Icon - Download for free – Iconduck" jsname="kn3ccd" data-ilt="1688656347572">
 
