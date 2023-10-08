@@ -15,7 +15,9 @@ I'm learning HTML
 - My Jira skills
 - My Selenium (jUnit, TestNg, Cucumber, Fluent, Reports) skills
 - My Selenium Grid skills
-
+- My Jenkins with AWS skills
+- My MySQL skills
+- My JDBC skills
 
 ### 🌱 I'm currently learning
 
@@ -24,7 +26,8 @@ I'm learning HTML
 - AWS Cloud
 - Jenkins
 - Appium
-
+- REST Assured API
+- Postman
 
 
 
