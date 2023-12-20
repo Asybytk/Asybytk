@@ -18,9 +18,6 @@ I'm learning Appium
 - My Jenkins with AWS skills
 - My MySQL skills
 - My JDBC skills
-
-### 🌱 I'm currently learning
-
 - Selenium
 - Jira
 - AWS Cloud
@@ -29,6 +26,8 @@ I'm learning Appium
 - REST Assured API
 - Postman
 
+### 🌱 I'm currently learning
+- Python
 
 
 ## 🌐 Socials:
